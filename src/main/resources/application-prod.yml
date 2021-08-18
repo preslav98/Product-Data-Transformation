@@ -1,0 +1,9 @@
+
+categories:
+    T-Shirts: Clothing,
+    Bracelet: Accessories
+
+occasions:
+  Casual: Standard,
+  Formal: Luxury,
+  Gift: Gift
