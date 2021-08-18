@@ -1,0 +1,7 @@
+category: '{
+    "T-Shirts": "Clothing",
+    "Bracelet": "Accessories" }'
+
+occasion: '{
+  "Casual": "Standard",
+  "Formal": "Luxury" }'
